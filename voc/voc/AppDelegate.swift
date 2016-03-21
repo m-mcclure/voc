@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  voc
+//  VOC
 //
 //  Created by Matthew McClure on 3/21/16.
 //  Copyright © 2016 Matthew McClure. All rights reserved.

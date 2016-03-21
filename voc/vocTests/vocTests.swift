@@ -1,15 +1,15 @@
 //
-//  vocTests.swift
-//  vocTests
+//  VOCTests.swift
+//  VOCTests
 //
 //  Created by Matthew McClure on 3/21/16.
 //  Copyright © 2016 Matthew McClure. All rights reserved.
 //
 
 import XCTest
-@testable import voc
+@testable import VOC
 
-class vocTests: XCTestCase {
+class VOCTests: XCTestCase {
     
     override func setUp() {
         super.setUp()

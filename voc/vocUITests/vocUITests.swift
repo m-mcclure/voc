@@ -1,6 +1,6 @@
 //
-//  vocUITests.swift
-//  vocUITests
+//  VOCUITests.swift
+//  VOCUITests
 //
 //  Created by Matthew McClure on 3/21/16.
 //  Copyright © 2016 Matthew McClure. All rights reserved.
@@ -8,7 +8,7 @@
 
 import XCTest
 
-class vocUITests: XCTestCase {
+class VOCUITests: XCTestCase {
         
     override func setUp() {
         super.setUp()

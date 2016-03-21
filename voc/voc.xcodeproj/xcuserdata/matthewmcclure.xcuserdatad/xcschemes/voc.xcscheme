@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "290AB2901CA0979500B44944"
-               BuildableName = "voc.app"
-               BlueprintName = "voc"
-               ReferencedContainer = "container:voc.xcodeproj">
+               BlueprintIdentifier = "290AB2CC1CA0A38800B44944"
+               BuildableName = "VOC.app"
+               BlueprintName = "VOC"
+               ReferencedContainer = "container:VOC.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,30 +32,30 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "290AB2A41CA0979500B44944"
-               BuildableName = "vocTests.xctest"
-               BlueprintName = "vocTests"
-               ReferencedContainer = "container:voc.xcodeproj">
+               BlueprintIdentifier = "290AB2E01CA0A38800B44944"
+               BuildableName = "VOCTests.xctest"
+               BlueprintName = "VOCTests"
+               ReferencedContainer = "container:VOC.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "290AB2AF1CA0979500B44944"
-               BuildableName = "vocUITests.xctest"
-               BlueprintName = "vocUITests"
-               ReferencedContainer = "container:voc.xcodeproj">
+               BlueprintIdentifier = "290AB2EB1CA0A38800B44944"
+               BuildableName = "VOCUITests.xctest"
+               BlueprintName = "VOCUITests"
+               ReferencedContainer = "container:VOC.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "290AB2901CA0979500B44944"
-            BuildableName = "voc.app"
-            BlueprintName = "voc"
-            ReferencedContainer = "container:voc.xcodeproj">
+            BlueprintIdentifier = "290AB2CC1CA0A38800B44944"
+            BuildableName = "VOC.app"
+            BlueprintName = "VOC"
+            ReferencedContainer = "container:VOC.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -75,10 +75,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "290AB2901CA0979500B44944"
-            BuildableName = "voc.app"
-            BlueprintName = "voc"
-            ReferencedContainer = "container:voc.xcodeproj">
+            BlueprintIdentifier = "290AB2CC1CA0A38800B44944"
+            BuildableName = "VOC.app"
+            BlueprintName = "VOC"
+            ReferencedContainer = "container:VOC.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -94,10 +94,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "290AB2901CA0979500B44944"
-            BuildableName = "voc.app"
-            BlueprintName = "voc"
-            ReferencedContainer = "container:voc.xcodeproj">
+            BlueprintIdentifier = "290AB2CC1CA0A38800B44944"
+            BuildableName = "VOC.app"
+            BlueprintName = "VOC"
+            ReferencedContainer = "container:VOC.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
