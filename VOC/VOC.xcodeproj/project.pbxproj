@@ -23,6 +23,7 @@
 		290AB3121CA0A38800B44944 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 290AB3111CA0A38800B44944 /* Assets.xcassets */; };
 		290AB3281CA0A3AA00B44944 /* MainMenuViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 290AB3271CA0A3AA00B44944 /* MainMenuViewController.swift */; };
 		290AB32A1CA0A71600B44944 /* FlashcardViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 290AB3291CA0A71600B44944 /* FlashcardViewController.swift */; };
+		29C68E891CA0AA90004DCAE9 /* SATwords.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C68E881CA0AA90004DCAE9 /* SATwords.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -107,6 +108,7 @@
 		290AB3131CA0A38800B44944 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		290AB3271CA0A3AA00B44944 /* MainMenuViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MainMenuViewController.swift; sourceTree = "<group>"; };
 		290AB3291CA0A71600B44944 /* FlashcardViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FlashcardViewController.swift; sourceTree = "<group>"; };
+		29C68E881CA0AA90004DCAE9 /* SATwords.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = SATwords.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -175,6 +177,7 @@
 				290AB2D71CA0A38800B44944 /* Assets.xcassets */,
 				290AB2D91CA0A38800B44944 /* LaunchScreen.storyboard */,
 				290AB2DC1CA0A38800B44944 /* Info.plist */,
+				29C68E881CA0AA90004DCAE9 /* SATwords.json */,
 			);
 			path = VOC;
 			sourceTree = "<group>";
@@ -376,6 +379,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				29C68E891CA0AA90004DCAE9 /* SATwords.json in Resources */,
 				290AB2DB1CA0A38800B44944 /* LaunchScreen.storyboard in Resources */,
 				290AB2D81CA0A38800B44944 /* Assets.xcassets in Resources */,
 				290AB2D61CA0A38800B44944 /* Main.storyboard in Resources */,
@@ -737,6 +741,7 @@
 				290AB3181CA0A38800B44944 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		290AB31A1CA0A38800B44944 /* Build configuration list for PBXNativeTarget "VOC WatchKit App" */ = {
 			isa = XCConfigurationList;
@@ -745,6 +750,7 @@
 				290AB31C1CA0A38800B44944 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		290AB31E1CA0A38800B44944 /* Build configuration list for PBXNativeTarget "VOC" */ = {
 			isa = XCConfigurationList;
@@ -753,6 +759,7 @@
 				290AB3201CA0A38800B44944 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		290AB3211CA0A38800B44944 /* Build configuration list for PBXNativeTarget "VOCTests" */ = {
 			isa = XCConfigurationList;
@@ -761,6 +768,7 @@
 				290AB3231CA0A38800B44944 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		290AB3241CA0A38800B44944 /* Build configuration list for PBXNativeTarget "VOCUITests" */ = {
 			isa = XCConfigurationList;
@@ -769,6 +777,7 @@
 				290AB3261CA0A38800B44944 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
